@@ -135,19 +135,19 @@ Plugin Installation only
 Exist a script that install only plugin, this is for the peoples then want to install some plugins instead to reinstall xmlrpc-c, libtorrent and rtorrent.
 
 Actual version for the script: 
-- **3.1**
+- **3.1.1**
 
-Download the script. Remember to change the X.X to the actual version.
+Download the script. Remember to change the X.X.X to the actual version.
 
-	wget https://raw.githubusercontent.com/Kerwood/rtorrent.auto.install/master/Plugins-installer-script-X.X
+	wget https://raw.githubusercontent.com/Kerwood/rtorrent.auto.install/master/Plugins-installer-script-X.X.X
 
 Make it executable.
 
-	chmod +x Plugins-installer-script-X.X
+	chmod +x Plugins-installer-script-X.X.X
 
 Run the script.
 
-	sudo ./Plugins-installer-script-X.X
+	sudo ./Plugins-installer-script-X.X.X
 
 
 Login box does not appear after install!!!
